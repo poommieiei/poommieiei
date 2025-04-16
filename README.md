@@ -1,4 +1,4 @@
-# Hi 👋😻, I'm Kittipoom Yuttanava
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&duration=4000&pause=1000&color=00C6FF&width=1000&lines=Hi+%F0%9F%91%8B%F0%9F%98%BB%2C+I'm+Kittipoom+Yuttanava)](https://git.io/typing-svg)
 
 I am currently pursuing my Bachelor’s degree in Software Engineering at Burapha University. My studies focus on key areas of software development, including programming, system analysis, and software design.
 
@@ -22,3 +22,11 @@ I am currently pursuing my Bachelor’s degree in Software Engineering at Buraph
 
 
 ![snake gif](https://github.com/poommieiei/poommieiei/raw/output/snake.svg)
+
+
+### 🎧 Favorite song
+**🎵 Song:** *Magnetic*  
+**🎶 Listen on:** [Apple Music](https://music.apple.com/th/album/magnetic/1734500886?i=1734500896)
+
+![Visitors](https://komarev.com/ghpvc/?username=IamPoomMi&color=blue)
+
