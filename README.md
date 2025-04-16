@@ -22,3 +22,12 @@ I am currently pursuing my Bachelor’s degree in Software Engineering at Buraph
 
 
 ![snake gif](https://github.com/poommieiei/poommieiei/raw/output/snake.svg)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/poommieiei/count.svg?"  />
+</div>
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no"
+  src="https://www.youtube.com/embed/B3eAMGXFw1o?autoplay=1&mute=1">
+</iframe>
