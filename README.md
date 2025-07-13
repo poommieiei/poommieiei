@@ -30,5 +30,3 @@ I am currently pursuing my Bachelor’s degree in Software Engineering at Buraph
 **🎶 Listen on:** [Apple Music](https://music.apple.com/th/album/magnetic/1734500886?i=1734500896)
 
 ![Visitors](https://komarev.com/ghpvc/?username=poommieiei&color=blue)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=38&duration=1000&pause=500&color=00C6FF&random=true&width=600&height=78&lines=%F0%9F%98%BF;%F0%9F%98%BB;%F0%9F%98%BE;%F0%9F%98%B9;%F0%9F%99%80;%F0%9F%98%BD;%F0%9F%98%BC)](https://git.io/typing-svg)
