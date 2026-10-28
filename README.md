@@ -20,4 +20,4 @@ I am currently pursuing my Bachelor’s degree in Software Engineering at Buraph
 ### 🐍 Snake
 ![snake gif](https://github.com/poommieiei/poommieiei/raw/output/snake.svg)
 
-![Visitors](https://komarev.com/ghpvc/?username=poommieiei&color=blue)
+<!-- ![Visitors](https://komarev.com/ghpvc/?username=poommieiei&color=blue) -->
