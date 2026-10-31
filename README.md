@@ -6,7 +6,7 @@ I am currently pursuing my Bachelor’s degree in Software Engineering at Buraph
 
 ### 📫 **Get in Touch**
 - **Email**: 1102poom@gmail.com
-- **GitHub**: [IamPoomMi](https://github.com/IamPoomMi) && [poommieiei](https://github.com/poommieiei)
+<!-- - **GitHub**: [IamPoomMi](https://github.com/IamPoomMi) && [poommieiei](https://github.com/poommieiei) -->
 
 ---
 
